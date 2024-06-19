@@ -1,5 +1,19 @@
 # CHANGELOG
 
+## v0.2.0 (2024-06-19)
+
+### Documentation
+
+* docs: add requirements.txt ([`af68cf3`](https://github.com/Hylbert/SealValidation/commit/af68cf3f78ac9aa2f3059ea4eb6cdc90a2550593))
+
+### Feature
+
+* feat: adding yolo to the project for object recognition ([`01362f6`](https://github.com/Hylbert/SealValidation/commit/01362f67e27824d485e3c401426c815c0e2ef100))
+
+### Unknown
+
+* config: add gitignore ([`1512d13`](https://github.com/Hylbert/SealValidation/commit/1512d13fb4c0d1039353084d8327b545e3df730b))
+
 ## v0.1.0 (2024-06-17)
 
 ### Documentation
